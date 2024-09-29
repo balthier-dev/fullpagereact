@@ -1,12 +1,23 @@
 body {
-  font-family: arial, helvetica;
+  font-family: 'Cardo';
 }
 
 h3 {
-  font-size: 5em;
-  text-align: center;
+  font-family: 'Cardo';
+  font-size: 4em;
   color: #fff;
-  font-weight: 700;
+  font-weight: 0 !important;
+}
+
+h4 {
+  font-size: 2em;
+  color: #fff;
+  font-weight: 0 !important;
+}
+
+h5 {
+  font-size: 1.5em;
+  color: #fff;
 }
 
 #section1 {
